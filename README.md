@@ -4,24 +4,24 @@ Transform any boring webpage into a comic book adventure with animations, games,
 
 ![Cartoonify Banner](media/chillguy.png)
 
-## 💥 Description
+## Description
 
 Cartoonify is a Chrome extension that adds comic book styling and fun interactive elements to any webpage. Turn your mundane web browsing into an exciting, cartoon-like experience complete with custom fonts, sound effects, animations, and mini-games.
 
-## ✨ Features
+## Features
 
-- 🎨 **Comic Book Styling**: Changes fonts, colors, and adds cartoon-like effects to webpages
-- 🔊 **Sound Effects**: Comic book style "POW!", "BOOM!", "ZAP!" sounds with every click
-- 🐢 **Moving Turtle**: A friendly turtle that moves across the bottom of your screen
-- 💬 **Speech Bubbles**: Random comic-style speech bubbles appear on headings and links
-- 🎮 **Pong Game**: Play a mini Pong game in the corner of your browser
-- 🌈 **RGB Mode**: Cycle through rainbow colors on the entire page
-- 🔄 **Color Inversion**: Invert all colors on the page for a negative effect
-- 🐱 **Cat Cursor**: A cute cat that follows your cursor around the page
-- 🐷 **Pig Roaster**: Get a humorous "roast" about the page you're viewing
-- 🤓 **Nerd Summarizer**: Get a nerdy, technical summary of the current page content
+- Changes fonts, colors, and adds cartoon-like effects to webpages
+- Comic book style "POW!", "BOOM!", "ZAP!" sounds with every click
+- A friendly turtle that moves across the bottom of your screen
+- Random comic-style speech bubbles appear on headings and links
+- Play a mini Pong game in the corner of your browser
+- Cycle through rainbow colors on the entire page
+- Invert all colors on the page for a negative effect
+- A cute cat that follows your cursor around the page
+- Get a humorous "roast" about the page you're viewing
+- Get a nerdy, technical summary of the current page content
 
-## 🚀 Installation
+## Installation
 
 1. Download or clone this repository
 2. Open Chrome and navigate to `chrome://extensions`
@@ -29,7 +29,7 @@ Cartoonify is a Chrome extension that adds comic book styling and fun interactiv
 4. Click "Load unpacked" and select the Cartoonify directory
 5. The Cartoonify extension icon should now appear in your Chrome toolbar
 
-## 🎮 Usage
+## Usage
 
 1. Click the Cartoonify extension icon in your toolbar to activate
 2. Click it again to deactivate
@@ -41,7 +41,7 @@ Cartoonify is a Chrome extension that adds comic book styling and fun interactiv
 - **Nerd Summarizer**: Hover over the nerd icon on the left side and click for a summary
 - **Cat Cursor**: Watch the cat follow your cursor movements
 
-## ⚙️ Configuration
+## Configuration
 
 You can customize various features through the extension's options page:
 
@@ -57,22 +57,14 @@ You can customize various features through the extension's options page:
   - RGB Mode
   - Cat Cursor
 
-## 📋 Requirements
+## Requirements
 
 - Google Chrome browser (version 88 or higher recommended)
 - An appreciation for fun and silliness 😄
 
 
-## 🎵 Credits
+## Credits
 
 - Sound effects from various royalty-free sources
 - Font: Bangers by Vernon Adams (Google Fonts)
 - API: Google Gemini for text generation
-
-## Team
-
-Made with love by:
-- Kevin Chang
-- Ray Xu   
-- Timothy Riddles
-- Jerry Hu

@@ -1,4 +1,4 @@
-# Cartoonify
+# Toonify
 
 Transform any boring webpage into a comic book adventure with animations, games, and fun interactive elements!
 
